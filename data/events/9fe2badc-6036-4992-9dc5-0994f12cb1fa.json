@@ -7,6 +7,9 @@
       "caption_set": [
         {
           "annotation_page_id": "d2c469b8-7d46-4cac-86f0-9a8da0165154"
+        },
+        {
+          "annotation_page_id": "d002f73a-e821-4400-b381-d77e0f7bc70a"
         }
       ]
     }
@@ -26,6 +29,6 @@
   "created_by": "lwjameson",
   "item_type": "Video",
   "label": "Imported Event 1",
-  "updated_at": "2024-10-10T19:42:47.476Z",
+  "updated_at": "2024-10-10T19:43:32.107Z",
   "updated_by": "lwjameson"
 }
