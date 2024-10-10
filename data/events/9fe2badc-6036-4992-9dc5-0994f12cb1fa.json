@@ -4,7 +4,14 @@
       "label": "Label 1",
       "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/149/546/original/spokenweb__readings___discussion_by_ifeoma_chinwuba_and_titilope_sonuga_%281080p%29.mp4?1645720663",
       "duration": 5279.935,
-      "caption_set": []
+      "caption_set": [
+        {
+          "annotation_page_id": "d2c469b8-7d46-4cac-86f0-9a8da0165154"
+        },
+        {
+          "annotation_page_id": "d002f73a-e821-4400-b381-d77e0f7bc70a"
+        }
+      ]
     }
   },
   "auto_generate_web_page": true,
@@ -22,6 +29,6 @@
   "created_by": "lwjameson",
   "item_type": "Video",
   "label": "Imported Event 1",
-  "updated_at": "2024-10-10T20:55:26.700Z",
+  "updated_at": "2024-10-10T20:57:36.403Z",
   "updated_by": "lwjameson"
 }
