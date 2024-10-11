@@ -13,6 +13,22 @@
       ],
       "tags": [],
       "uuid": "1956e01e-cb0a-4167-b5d7-63f58cd89a96"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Test"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9f907fc8-b423-42c6-a04d-9dba64ab1022"
     }
   ]
 }
