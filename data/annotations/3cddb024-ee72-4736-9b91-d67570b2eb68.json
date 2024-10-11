@@ -13,22 +13,6 @@
       ],
       "tags": [],
       "uuid": "1956e01e-cb0a-4167-b5d7-63f58cd89a96"
-    },
-    {
-      "start_time": 0,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Test VTT"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "20ea4c0f-f518-4d61-bca0-f124b9f03266"
     }
   ]
 }
